@@ -71,6 +71,10 @@ python3 part2.py
 - The panorama for each folder is saved in `output/<input_subfolder_name>/<input_subfolder_name>_panorama.jpg`.
 - The `output/<input_subfolder_name>/` directory also contains images showing matching keypoints between images as `<input_subfolder_name>_matches_<image_number>.jpg`.
 
+## Report
+
+Further details on the implementation and experiments performed can be found in report.pdf. 
+
 ## Repository
 
 Github: [VR_Assignment1_AnuragRamaswamy_IMT2022103](https://github.com/Anurag9507/VR_Assignment1_AnuragRamaswamy_IMT2022103)
